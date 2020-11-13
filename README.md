@@ -1,9 +1,9 @@
-# Hotel Website Templet
+# 🏨 Hotel Website Templet 🏨
 Simpal Hotel Website Templet.
 
-# Built Using 
+# ⚙ Built Using ⚙
 * HTML
 * CSS
 
-# Check Out Live Demo At
+# ▶ Check Out Live Demo At ▶ 
 [ Live Demo ](https://ashishsiot.github.io/HotelWebsite/. )
