@@ -6,4 +6,8 @@ Simpal Hotel Website Templet.
 * CSS
 
 # ▶ Check Out Live Demo At ▶ 
-[ Live Demo ](https://ashishsiot.github.io/HotelWebsite/. )
+
+[![Live Demo](3DTest.png)](https://ashishsiot.github.io/HotelWebsite/.)
+
+[ Click Hear For Live Demo ](https://ashishsiot.github.io/HotelWebsite/. )
+
